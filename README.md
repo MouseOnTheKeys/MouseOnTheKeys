@@ -2,6 +2,8 @@
 
 ![Wallpapper](https://raw.githubusercontent.com/MouseOnTheKeys/mouse/gh-pages/static/img/bilboard.png?token=ALOTUPNV6EJJ6JF7MEXEMRS7YFBYK)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MouseOnTheKeys)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/mouseonthekeys)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nenad.bubalo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/11832202)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nenadbubalo.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg' alt='xing' height='40'>](https://www.xing.com/profile/Nenad_Bubalo/)
+
 <!--
 **MouseOnTheKeys/MouseOnTheKeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
