@@ -32,7 +32,7 @@
 <details>
 <summary>Take a look at my stats:</summary>
 <br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=material-palenight)
+<img src="https://github-readme-stats.vercel.app/api?username=MouseOnTheKeys&show_icons=true&theme=material-palenight">
 </details>
 
 ![Visitor Count](https://profile-counter.glitch.me/MouseOnTheKeys/count.svg)
