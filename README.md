@@ -9,6 +9,20 @@
 <a href="https://www.xing.com/profile/Nenad_Bubalo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg" alt="xing" height="20" width="30" /></a>
 <a href="https://fb.com/nenad.bubalo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nenad.bubalo" height="20" width="30" /></a></h3>
   
+
+
+<details>
+<summary>Take a look at my stats:</summary>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=MouseOnTheKeys&show_icons=true&theme=material-palenight">
+</details>
+
+<img align="right" src="https://profile-counter.glitch.me/MouseOnTheKeys/count.svg">
+
+<!--
+**MouseOnTheKeys/MouseOnTheKeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 <p align="left"><h3 align="left">Languages and Tools:
 <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
 <a href="https://www.scala-lang.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/scala/scala-original-wordmark.svg" alt="scala" width="30" height="30"/> </a> 
@@ -28,20 +42,6 @@
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/> </a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="30" height="30"/> </a> </h3>
-
-<details>
-<summary>Take a look at my stats:</summary>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=MouseOnTheKeys&show_icons=true&theme=material-palenight">
-</details>
-
-<img align="right" src="https://profile-counter.glitch.me/MouseOnTheKeys/count.svg">
-
-<!--
-**MouseOnTheKeys/MouseOnTheKeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 
 Here are some ideas to get you started:
 
