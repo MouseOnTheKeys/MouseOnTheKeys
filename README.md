@@ -29,7 +29,13 @@
 <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="30" height="30"/> </a> </h3>
 
+<details>
+<summary>Take a look at my stats:</summary>
+<br>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=material-palenight)
+</details>
 
+![Visitor Count](https://profile-counter.glitch.me/MouseOnTheKeys/count.svg)
 
 <!--
 **MouseOnTheKeys/MouseOnTheKeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
