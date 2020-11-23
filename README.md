@@ -7,8 +7,9 @@
 <a href="https://stackoverflow.com/users/11832202" target="blank"><img align="center" src="https://img.shields.io/badge/stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="11832202" /></a>
 <a href="https://www.xing.com/profile/Nenad_Bubalo/" target="blank"><img align="center" src="https://img.shields.io/badge/Xing-%23006567.svg?&style=for-the-badge&logo=Xing&logoColor=white" alt="xing" /></a>
 <a href="https://dev.to/mouseonthekeys" target="blank"><img align="center" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-<a href="https://open.spotify.com/user/yzbyrqozdychusblaerzu2qal" target="blank"><img align="center" src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white " alt="MouseOnTheKeys"/></a></p>
-<a href="https://fb.com/nenad.bubalo" target="blank"><img align="center" src="https://img.shields.io/badge/FB-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="nenad.bubalo"/></a>
+<a href="https://open.spotify.com/user/yzbyrqozdychusblaerzu2qal" target="blank"><img align="center" src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white " alt="MouseOnTheKeys"/></a>
+<a href="https://fb.com/nenad.bubalo" target="blank"><img align="center" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="nenad.bubalo"/></a></p>
+
   
 
 
