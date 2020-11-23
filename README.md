@@ -1,6 +1,6 @@
 ![Wallpapper](https://raw.githubusercontent.com/MouseOnTheKeys/mouse/gh-pages/static/img/bilboard.png?token=ALOTUPNV6EJJ6JF7MEXEMRS7YFBYK)
 
-<p align="center">
+<p align="left">
 <a href="https://nenadbubalo.com/" target="blank"><img align="center" src="https://img.shields.io/badge/WebPAGE-%23DC322F.svg?&style=for-the-badge&logo=Instacart&logoColor=white" alt="website" /></a> 
 <a href="nenad.bubalo@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge " alt="outlook"/></a> 
 <a href="https://github.com/MouseOnTheKeys" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>  
@@ -8,7 +8,7 @@
 <a href="https://www.xing.com/profile/Nenad_Bubalo/" target="blank"><img align="center" src="https://img.shields.io/badge/Xing-%23006567.svg?&style=for-the-badge&logo=Xing&logoColor=white" alt="xing" /></a>
 <a href="https://dev.to/mouseonthekeys" target="blank"><img align="center" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 <a href="https://open.spotify.com/user/yzbyrqozdychusblaerzu2qal" target="blank"><img align="center" src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white " alt="MouseOnTheKeys"/></a>
-<a href="https://fb.com/nenad.bubalo" target="blank"><img align="center" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="nenad.bubalo"/></a></p>
+<a href="https://fb.com/nenad.bubalo" target="blank"><img align="center" src="https://img.shields.io/badge/FB-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="nenad.bubalo"/></a></p>
 
   
 
