@@ -1,6 +1,6 @@
 ![Wallpapper](https://raw.githubusercontent.com/MouseOnTheKeys/mouse/gh-pages/static/img/bilboard.png?token=ALOTUPNV6EJJ6JF7MEXEMRS7YFBYK)
 
-<p align="left">
+<p align="center">
 <a href="https://nenadbubalo.com/" target="blank"><img align="center" src="https://img.shields.io/badge/WebPAGE-%23DC322F.svg?&style=for-the-badge&logo=Instacart&logoColor=white" alt="website" /></a> 
 <a href="nenad.bubalo@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge " alt="outlook"/></a> 
 <a href="https://github.com/MouseOnTheKeys" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>  
