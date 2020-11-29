@@ -1,4 +1,3 @@
-![Wallpapper](https://raw.githubusercontent.com/MouseOnTheKeys/mouse/gh-pages/static/img/bilboard.png?token=ALOTUPNV6EJJ6JF7MEXEMRS7YFBYK)
 
 <p align="center">
 <a href="https://nenadbubalo.com/" target="blank"><img align="center" src="https://img.shields.io/badge/WebPAGE-%23DC322F.svg?&style=for-the-badge&logo=Instacart&logoColor=white" alt="website" /></a> 
