@@ -1,7 +1,7 @@
 
 <p align="center">
 <a href="https://nenadbubalo.com/" target="blank"><img align="center" src="https://img.shields.io/badge/WebPAGE-%23DC322F.svg?&style=for-the-badge&logo=Instacart&logoColor=white" alt="website" /></a> 
-<a href="[https://fb.com/nenad.bubalo](https://www.linkedin.com/in/nenad-bubalo/)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nenad.bubalo"/></a>
+<a href="https://www.linkedin.com/in/nenad-bubalo/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nenad.bubalo"/></a>
 <a href="nenad.bubalo@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge " alt="outlook"/></a> 
 <a href="https://github.com/MouseOnTheKeys" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>  
 <a href="https://stackoverflow.com/users/11832202" target="blank"><img align="center" src="https://img.shields.io/badge/stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="11832202" /></a>
