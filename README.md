@@ -17,9 +17,9 @@
 <details>
 <summary>Take a look at my stats:</summary>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=MouseOnTheKeys&show_icons=true&theme=material-palenight"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouseOnTheKeys&layout=compact&show_icons=true&theme=material-palenight">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mouseonthekeys&layout=compact&show_icons=true&theme=material-palenight">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MouseOnTheKeys&theme=material-palenight&show_icons=true)
+
 </details>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=MouseOnTheKeys&color=blueviolet&style=plastic">
