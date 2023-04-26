@@ -9,9 +9,11 @@
 <a href="https://open.spotify.com/user/yzbyrqozdychusblaerzu2qal" target="blank"><img align="center" src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white " alt="MouseOnTheKeys"/></a>
 <a href="https://fb.com/nenad.bubalo" target="blank"><img align="center" src="https://img.shields.io/badge/FB-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="nenad.bubalo"/></a></p>
 
+<p align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yzbyrqozdychusblaerzu2qal&cover_image=true&theme=compact&show_offline=True&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=yzbyrqozdychusblaerzu2qal&redirect=true)
   
-
-
+</p>
 <details>
 <summary>Take a look at my stats:</summary>
 <br>
