@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yzbyrqozdychusblaerzu2qal&cover_image=true&theme=compact&show_offline=True&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=yzbyrqozdychusblaerzu2qal&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yzbyrqozdychusblaerzu2qal&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=8d7efb&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yzbyrqozdychusblaerzu2qal&redirect=true)
   
 </div>
 <details>
