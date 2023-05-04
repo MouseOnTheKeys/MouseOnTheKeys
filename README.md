@@ -13,10 +13,10 @@
 <div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yzbyrqozdychusblaerzu2qal&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=8d7efb&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yzbyrqozdychusblaerzu2qal&redirect=true)
-  
+
 </div>
 <details>
-<summary>Take a look at my stats:</summary>
+<summary>Take a look at my stats:<img align="right" src="https://profile-counter.glitch.me/MouseOnTheKeys/count.svg"></summary>
 <br>
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MouseOnTheKeys&theme=material_palenight)
