@@ -39,7 +39,9 @@
 
 ---
 
-### GitHub Stats
+<details>
+<summary><h3>&#128202; GitHub Stats</h3></summary>
+<br>
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MouseOnTheKeys&theme=material_palenight" height="180" alt="GitHub Stats"/>
@@ -53,6 +55,8 @@
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MouseOnTheKeys&theme=material_palenight" alt="Profile Summary"/>
 </p>
+
+</details>
 
 ---
 
