@@ -1,8 +1,8 @@
 <h1 align="center">Hey there, I'm Nenad &#128075;</h1>
 <h3 align="center">Data Engineer - Music Lover - Open Source Enthusiast</h3>
-<p align="center">
+<!-- <p align="center">
     <img src="https://github.com/MouseOnTheKeys.png" width="150" style="border-radius: 50%;" alt="Nenad Bubalo" />
-</p>
+</p> -->
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8D7EFB&center=true&vCenter=true&width=600&lines=Data+Engineer;Data+Platform+Architecture;Python+%7C+Spark+%7C+SQL;AWS+%7C+Airflow+%7C+dbt+%7C+Terraform" alt="Typing SVG" />
