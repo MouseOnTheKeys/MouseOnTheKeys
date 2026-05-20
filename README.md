@@ -42,8 +42,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MouseOnTheKeys&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouseOnTheKeys&theme=material-palenight&layout=compact&hide_border=true&count_private=true" height="180" alt="Top Languages"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MouseOnTheKeys&theme=material_palenight" height="180" alt="GitHub Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MouseOnTheKeys&theme=material_palenight" height="180" alt="Top Languages"/>
 </p>
 
 <p align="center">
