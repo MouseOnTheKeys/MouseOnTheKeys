@@ -1,65 +1,74 @@
+<h1 align="center">Hey there, I'm Nenad &#128075;</h1>
+<h3 align="center">Software Developer - Music Lover - Open Source Enthusiast</h3>
 
 <p align="center">
-<a href="https://nenadbubalo.com/" target="blank"><img align="center" src="https://img.shields.io/badge/WebPAGE-%23DC322F.svg?&style=for-the-badge&logo=Instacart&logoColor=white" alt="website" /></a> 
-<a href="https://www.linkedin.com/in/nenad-bubalo/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nenad.bubalo"/></a>
-<a href="nenad.bubalo@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge " alt="outlook"/></a> 
-<a href="https://github.com/MouseOnTheKeys" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>  
-<a href="https://stackoverflow.com/users/11832202" target="blank"><img align="center" src="https://img.shields.io/badge/stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="11832202" /></a>
-<a href="https://www.xing.com/profile/Nenad_Bubalo/" target="blank"><img align="center" src="https://img.shields.io/badge/Xing-%23006567.svg?&style=for-the-badge&logo=Xing&logoColor=white" alt="xing" /></a>
-<a href="https://dev.to/mouseonthekeys" target="blank"><img align="center" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-<a href="https://open.spotify.com/user/yzbyrqozdychusblaerzu2qal" target="blank"><img align="center" src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white " alt="MouseOnTheKeys"/></a>
-<a href="https://fb.com/nenad.bubalo" target="blank"><img align="center" src="https://img.shields.io/badge/FB-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="nenad.bubalo"/></a></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8D7EFB&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Always+learning+new+things;Building+cool+stuff" alt="Typing SVG" />
+</p>
+
+---
+
+### Connect with me
+
+<p align="center">
+  <a href="https://nenadbubalo.com/" target="blank"><img src="https://img.shields.io/badge/Website-%23DC322F.svg?&style=for-the-badge&logo=Instacart&logoColor=white" alt="website" /></a>
+  <a href="https://www.linkedin.com/in/nenad-bubalo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:nenad.bubalo@outlook.com" target="blank"><img src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" alt="outlook"/></a>
+  <a href="https://stackoverflow.com/users/11832202" target="blank"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Stack Overflow" /></a>
+  <a href="https://dev.to/mouseonthekeys" target="blank"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.TO"/></a>
+  <a href="https://www.xing.com/profile/Nenad_Bubalo/" target="blank"><img src="https://img.shields.io/badge/Xing-%23006567.svg?&style=for-the-badge&logo=Xing&logoColor=white" alt="Xing" /></a>
+</p>
+
+---
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MouseOnTheKeys&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouseOnTheKeys&theme=material-palenight&layout=compact&hide_border=true&count_private=true" height="180" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MouseOnTheKeys&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MouseOnTheKeys&theme=material_palenight" alt="Profile Summary"/>
+</p>
+
+---
+
+### Now Playing on Spotify
 
 <div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yzbyrqozdychusblaerzu2qal&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=8d7efb&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=yzbyrqozdychusblaerzu2qal&redirect=true)
 
 </div>
-<details>
-<summary>Take a look at my stats:<img align="right" src="https://profile-counter.glitch.me/MouseOnTheKeys/count.svg"></summary>
-<br>
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MouseOnTheKeys&theme=material_palenight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MouseOnTheKeys&theme=material-palenight&show_icons=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MouseOnTheKeys&theme=material_palenight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MouseOnTheKeys&theme=material_palenight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MouseOnTheKeys&theme=material_palenight&utcOffset=1)
-</details>
 
+---
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/MouseOnTheKeys/count.svg" alt="Visitor Count" />
+</p>
 
-<!--
-**MouseOnTheKeys/MouseOnTheKeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-<p align="left"><h3 align="left">Languages and Tools:
-<a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
-<a href="https://www.scala-lang.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/scala/scala-original-wordmark.svg" alt="scala" width="30" height="30"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/> </a> 
-<a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="30" height="30"/> </a> 
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="30" height="30"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="30" height="30"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
-<a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="30" height="30"/> </a> 
-<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/> </a> 
-<a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="30" height="30"/> </a> </h3>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><i>Thanks for visiting! Feel free to explore my repos.</i></p>
